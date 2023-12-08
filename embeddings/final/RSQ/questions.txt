@@ -1,0 +1,90 @@
+1. The situation is potentially enjoyable.
+2. The situation is complex.
+3. A job needs to be done.
+4. Someone is trying to impress you.
+5. Someone is trying to convince you of something.
+6. Someone is counting on you to do something.
+7. Talking is permitted.
+8. Talking is expected or demanded.
+9. Someone is asking you for something.
+10. Someone needs help.
+11. Minor details are important.
+12. Politics are relevant 
+13. Intelligence is important 
+14. It is not clear what is going on; the situation is uncertain.
+15. Someone is under threat.
+16. Someone is criticizing you
+17. Someone is attempting to dominate or boss you.
+18. The situation is playful.
+19. The situation is rapidly changing
+20. Someone is unhappy or suffering.
+21. A reassuring person is present.
+22. Someone is blaming you for something.
+23. A decision needs to be made.
+24. Self-control is necessary
+25. People are competing with each other.
+26. Someone needs or desires reassurance.
+27. The situation is frustrating
+28. Your physical attractiveness is important.
+29. It is important for you to make a good impression.
+30. The situation could make people tense and upset.
+31. The situation includes small annoyances.
+32. The situation could make people feel hostile.
+33. People are disagreeing about something.
+34. Unusual ideas or points of view are being discussed freely.
+35. Physical threats are present. 
+36. Emotional threats are present. 
+37. Moral or ethical issues are relevant.
+38. Quick action is necessary.
+39. Emotions can be expressed.
+40. It is possible to ruminate, daydream or fantasize.
+41. The situation is noisy
+42. The people who are present have close personal relationships with each other.
+43. Someone present (other than you) is counted on to do something.
+44. The situation could be intellectually stimulating.
+45. Assertiveness is required to accomplish a goal.
+46. Desires could be gratified
+47. Social interaction is possible.
+48. The situation is humorous or potentially humorous.
+49. You are the focus of attention.
+50. Sensations are important
+51. The situation is relevant to your health
+52. Clear rules define appropriate behavior 
+53.  Someone is breaking rules.  
+54. Art is an important part of the situation.
+55. The situation is potentially anxiety-inducing.
+56. Ambition can be expressed or demonstrated.  
+57. The situation could make you feel inadequate. 
+58. Sexuality is relevant.
+59. You are being abused or victimized.
+60. The presence of members of the opposite sex is an important part of this situation.
+61. Potential or actual romantic partners (for you) are present.
+62. The situation is simple and clear-cut.
+63. People are comparing themselves to each other.  
+64. Power is important.  
+65. Masculinity can be expressed.
+66. Others want advice from you.
+67. The situation could arouse positive emotions.
+68. The situation could arouse negative emotions.
+69. There are opportunities to display verbal fluency
+70. People who are present occupy different social roles or levels of status.
+71. You are being pressured to conform to the actions of others.
+72. Success requires cooperation. 
+73. Someone is complimenting or praising you.
+74. Femininity can be expressed.
+75. Religion is relevant in this situation 
+76. Someone needs to be taken care of.
+77. Many things are happening at once.
+78. People are being physically active.
+79. People are working hard.  
+80. Food is important in this situation.
+81. The situation is physically uncomfortable 
+82. Family is important in this situation.
+83. A matter of honor is at stake.
+84. Money is important.
+85. People are participating in athletics or sports.
+86. Someone is feeling shame.
+87. Music is an important part of this situation.
+88. New relationships could develop.
+89. It is important for people to get along.
+90. Entertainment is present.

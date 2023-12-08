@@ -1,0 +1,69 @@
+question_id,item,construct
+rbq001,"Interviews others (if present). (e.g., asks a series of questions)",rbq
+rbq002,Volunteers a large amount of information about self.,rbq
+rbq003,Seems interested in what someone had to say.,rbq
+rbq004,Tries to control the situation. (Disregard whether attempts at control succeed or not.),rbq
+rbq005,"Dominates the situation. (Disregard intention, e.g., if P dominates the situation by default because other(s) present does very little, this item should receive high placement.)",rbq
+rbq006,Appears to be relaxed and comfortable.,rbq
+rbq007,"Exhibits social skills. (e.g., makes other(s) comfortable, keeps conversation moving, entertains or charms other(s))",rbq
+rbq008,"Is reserved and unexpressive. (e.g., expresses little affect; acts in a stiff, formal manner)",rbq
+rbq009,Laughs frequently. (Disregard whether laughter appears to be nervous or genuine.),rbq
+rbq010,Smiles frequently.,rbq
+rbq011,Is physically animated; moves around.,rbq
+rbq012,"Seems to like other(s) present. (e.g., would probably like to be friends with them)",rbq
+rbq013,"Exhibits an awkward interpersonal style. (e.g., seems to have difficulty knowing what to say, mumbles, fails to respond to conversational advances)",rbq
+rbq014,Compares self to other(s). (whether others are present or not),rbq
+rbq015,Shows high enthusiasm and a high energy level.,rbq
+rbq016,"Shows a wide range of interests. (e.g., talks about many topics)",rbq
+rbq017,"Talks at rather than with other(s). (e.g., conducts a monologue, ignores what other(s) says)",rbq
+rbq018,"Expresses agreement frequently. (High placement = agreement is expressed unusually often, e.g., in response to each and every statement partner(s) makes. Low placement = unusual lack of expression of agreement.)",rbq
+rbq019,Expresses criticism. (of anybody or anything) (Low placement = expresses praise.),rbq
+rbq020,Is talkative. (as observed in this situation),rbq
+rbq021,"Expresses insecurity. (e.g., seems touchy or overly sensitive)",rbq
+rbq022,"Show physical signs of tension or anxiety. (e.g., fidgets nervously, voice wavers) (Middle placement = lack of signs of anxiety. Low placement = lack of signs under circumstances where you would expect them.)",rbq
+rbq023,Exhibits a high degree of intelligence (Give this item high placement only if P actually says or does something of high intelligence. Low placement = exhibition of low intelligence. Medium placement = no information one way or another.),rbq
+rbq024,"Expresses sympathy. (to anyone, i.e., including conversational references) (Low placement = unusual lack of sympathy.)",rbq
+rbq025,Initiates humor.,rbq
+rbq026,"Seeks reassurance. (e.g., asks for agreement, fishes for praise)",rbq
+rbq027,"Exhibits condescending behavior. (e.g., acts as if self is superior to other(s) [present, or otherwise]) (Low placement = acting inferior.)",rbq
+rbq028,Seems likable. (to other(s) present),rbq
+rbq029,Seeks advice.,rbq
+rbq030,Appears to regard self as physically attractive.,rbq
+rbq031,Acts irritated.,rbq
+rbq032,"Expresses warmth. (to anyone, e.g., including affectionate references to close friends, ect.)",rbq
+rbq033,"Tries to undermine, sabotage or obstruct.",rbq
+rbq034,Expresses hostility. (no matter toward whom or what),rbq
+rbq035,Is unusual or unconventional in appearance.,rbq
+rbq036,Behaves in a fearful or timid manner.,rbq
+rbq037,"Is expressive in face, voice or gestures.",rbq
+rbq038,Expresses interest in fantasy or daydreams. (Low placement only if such interest is explicitly disavowed.),rbq
+rbq039,Expresses guilt. (about anything),rbq
+rbq040,Keeps other(s) at a distance; avoids development of any sort of interpersonal relationship. (Low placement = behavior to get close to other(s).),rbq
+rbq041,Shows interest in intellectual or cognitive matters. (discusses an intellectual idea in detail or with enthusiasm),rbq
+rbq042,Seems to enjoy the situation.,rbq
+rbq043,Says or does something interesting.,rbq
+rbq044,"Says negative things about self. (e.g., is self-critical; expresses feelings of inadequacy)",rbq
+rbq045,"Displays ambition. (e.g., passionate discussion of career plans, course grades, opportunities to make money)",rbq
+rbq046,Blames others. (for anything),rbq
+rbq047,Expresses self-pity or feelings of victimization.,rbq
+rbq048,"Expresses sexual interest. (e.g., acts attracted to someone present; expresses interest in dating or sexual matters in general)",rbq
+rbq049,Behaves in a cheerful manner.,rbq
+rbq050,Gives up when faced with obstacles. (Low placement implies unusual persistence.),rbq
+rbq051,Behaves in a stereotypically masculine style or manner.,rbq
+rbq052,Offers advice.,rbq
+rbq053,Speaks fluently and expresses ideas well.,rbq
+rbq054,"Emphasizes accomplishments of self, family or acquaintances. (Low placement = emphasizes failures of these individuals.)",rbq
+rbq055,Behaves in a competitive manner. (Low placement = cooperation.),rbq
+rbq056,Speaks in a loud voice.,rbq
+rbq057,"Speaks sarcastically. (e.g., says things (s)he does not mean; makes facetious comments that are not necessarily funny)",rbq
+rbq058,"Makes or approaches physical contact with other(s). (of any sort, including sitting unusually close without touching) (Low placement = unusual avoidance of physical contact, such as large interpersonal distance.)",rbq
+rbq059,Engages in constant eye contact with someone. (Low placement = unusual lack of eye contact.),rbq
+rbq060,Seems detached from the situation.,rbq
+rbq061,Speaks quickly. (Low placement = speaks slowly.),rbq
+rbq062,Acts playful.,rbq
+rbq063,Other(s) seeks advice from P.,rbq
+rbq064,Concentrates on or works hard at a task.,rbq
+rbq065,"Engages in physical activity. (e.g., works up a sweat) (Low placement = almost completely sedentary.)",rbq
+rbq066,"Acts in a self-indulgent manner. (e.g., spending, eating, or drinking) (Low placement implies self-denial.)",rbq
+rbq067,Exhibits physical discomfort or pain. (High placement = excess of what seems proportionate. Low placement implies lack of these signs where expected.),rbq
+rbq068,Behaves in a stereotypically feminine style or manner.,rbq
