@@ -4,6 +4,7 @@ from pathlib import Path
 
 from scipy.stats import pearsonr, mode 
 from scipy import stats
+from scipy.stats import zscore
 from numpy import nanmean
 
 from sklearn.decomposition import PCA
@@ -203,7 +204,6 @@ def getEmbeddings(folder, data, embeddings, responses, directory = "final"):
 
 def getData(m, responses, X_pca_stand, folder, data, directory = "final"):
   
-  question_ids = responses.columns
   data_q = X_pca_stand
   
   #choose parameter range
@@ -290,7 +290,7 @@ def compareModels(verbose = 0, directory = "final"):
 
                 #restrict to scale
                 y_pred[y_pred < 1] = 1
-                y_pred[y_pred > 5] = 5
+                y_pred[y_pred > 9] = 9
 
                 #save predictions in in dataframe
                 total_preds.iloc[user, qid_test] = y_pred
@@ -325,6 +325,7 @@ def modelPerformance(m=0, par=1, d="BIG5", e="sentencebert", verbose=0, director
     folder, data = chooseData(d)                                      # BIG5, IPIP (all items), RIASEC, HSQ, 16PF
     embeddings, save = chooseEmb(e)                                   # USE, BERT, SENTENCEBERT
     responses, savePath, items, _ = getResponses(folder, data, R, directory)
+    responses = responses.apply(zscore, axis=1, nan_policy="omit")
     X, X_stand, X_pca_stand = getEmbeddings(folder, data, embeddings, responses, directory)
 
     #get embeddings name:
@@ -371,11 +372,9 @@ def modelPerformance(m=0, par=1, d="BIG5", e="sentencebert", verbose=0, director
         if (m==3) & (len(set(y_train)) == 1): #if only one type of response in training fold, use value for prediction (SVC does not work with only one class)
           y_pred = np.repeat(y_train[0],q_test.shape[0])
         else: 
-          y_pred = np.round(model.fit(q_train,y_train).predict(q_test),0)
+          y_pred = model.fit(q_train,y_train).predict(q_test)
 
-        y_pred[y_pred < 1] = 1
-        y_pred[y_pred > 5] = 5
-        y_dumb = np.repeat(np.round(np.mean(y_train),0),q_test.shape[0]) 
+        y_dumb = np.repeat(np.mean(y_train),q_test.shape[0]) 
 
         #save predictions in in dataframe
         total_preds.iloc[user, qid_test] = y_pred
